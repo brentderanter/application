@@ -1,0 +1,1622 @@
+{
+   "features": [
+          {
+            "categorie": "Basket/ trapveld",
+            "straat": "Jan Denucéstraat",
+            "huisnr": "z/n",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Jan Denucéstraat",
+            "x": 4.391652221597897,
+            "y": 51.19523713543258
+          },
+          {
+            "categorie": "Trapveld",
+            "straat": "Hof ter Lo",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 1,
+            "naam": "Hof Ter Lo",
+            "x": 4.448155481873182,
+            "y": 51.220669364434954
+         },
+         {
+            "categorie": "Petanquebaan",
+            "straat": "Damplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 2,
+            "naam": "Damplein",
+            "x": 4.425105861460022,
+            "y": 51.232064491216754
+         },
+         {
+
+            "categorie": "Basketbalveld",
+            "straat": "Damplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 2,
+            "naam": "Damplein",
+            "x": 4.4252667928820735,
+            "y": 51.232192921705575
+         },
+         {
+            "categorie": "Basketbalveld 1/2",
+            "straat": "Edisonlaan",
+            "huisnr": "1",
+            "postcode": "2030",
+            "toestellen": 1,
+            "naam": "Edisonlaan",
+            "x": 4.408765902306069,
+            "y": 51.2914857663243
+         },
+         {
+            "categorie": "Petanquebaan",
+            "straat": "Theaterplein",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Theaterplein",
+            "x": 4.409483184626602,
+            "y": 51.21445345632724
+         },
+         {
+
+            "categorie": "Basketbalveld",
+            "straat": "Sint-Jansvliet",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Sint-Jansvliet",
+            "x": 4.396806829093651,
+            "y": 51.21857592638947
+         },
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "De Coninckplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "De Coninckplein",
+            "x": 4.420814406620909,
+            "y": 51.221472892073024
+         },
+      {
+
+            "categorie": "Volleybalveld",
+            "straat": "Boekenberglei",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 2,
+            "naam": "Boekenbergpark",
+            "x": 4.464498787859864,
+            "y": 51.19657954883972
+         },
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Wimpelstraat",
+            "huisnr": "z/n",
+            "postcode": "2030",
+            "toestellen": 1,
+            "naam": "Wimpelstraat",
+            "x": 4.407608629761227,
+            "y": 51.27625093415114
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Bloemstraat",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 1,
+            "naam": "Bloemstraat",
+            "x": 4.428727079860509,
+            "y": 51.21287206852448
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Parkweg",
+            "huisnr": "z/n",
+            "postcode": "2100",
+            "toestellen": null,
+            "naam": "Provinciaal Groendomein Rivierenhof",
+            "x": 4.456297377883155,
+            "y": 51.21840905390457
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Ter Nieuwerbrugge",
+            "huisnr": "1",
+            "postcode": "2600",
+            "toestellen": 1,
+            "naam": "Het Prieel",
+            "x": 4.444097785084365,
+            "y": 51.189294605593915
+         }
+      ,
+      {
+
+            "categorie": "Agora",
+            "straat": "Vinçottestraat",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 1,
+            "naam": "Vincottestraat",
+            "x": 4.437117984637075,
+            "y": 51.215558336774535
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Lindenlei",
+            "huisnr": "1",
+            "postcode": "2180",
+            "toestellen": 1,
+            "naam": "Veltwijckpark",
+            "x": 4.424985248683361,
+            "y": 51.27789775705575
+         }
+      ,
+      {
+
+            "categorie": "Skateterrein",
+            "straat": "Lindenlei",
+            "huisnr": "1",
+            "postcode": "2180",
+            "toestellen": 1,
+            "naam": "Veltwijckpark",
+            "x": 4.426319800402074,
+            "y": 51.27801809863698
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Vincent Van Goghplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": null,
+            "naam": "Vincent van Goghplein",
+            "x": 4.4293721681110085,
+            "y": 51.22203354849299
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Vincent Van Goghplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": null,
+            "naam": "Vincent van Goghplein",
+            "x": 4.429633547548027,
+            "y": 51.22168425432425
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Kerkstraat",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "Kerkstraat",
+            "x": 4.431902770535698,
+            "y": 51.219040246250906
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Sint-Antoniusstraat",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Bogaardestraat",
+            "x": 4.400476739275168,
+            "y": 51.21572517334213
+         }
+      ,
+      {
+
+            "categorie": "Pannaveld",
+            "straat": "Sint-Elisabethstraat",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "Sint - Elisabethstraat",
+            "x": 4.424416057335622,
+            "y": 51.22276311368118
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Rotterdamstraat",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "Zusters-der-Armenplein",
+            "x": 4.42088926344131,
+            "y": 51.22345649768852
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Jos Verhelstplein",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "Jos Verhelstplein",
+            "x": 4.433125457269047,
+            "y": 51.22714661298024
+         }
+      ,
+      {
+
+            "categorie": "Agora-minipitch",
+            "straat": "Stuivenbergplein",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 4,
+            "naam": "Stuivenbergplein",
+            "x": 4.430624024590031,
+            "y": 51.22687895450742
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Stuivenbergplein",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 4,
+            "naam": "Stuivenbergplein",
+            "x": 4.4295469963783365,
+            "y": 51.22683764981378
+         }
+      ,
+      {
+
+            "categorie": "Pannaveld",
+            "straat": "Stuivenbergplein",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 4,
+            "naam": "Stuivenbergplein",
+            "x": 4.430028284352573,
+            "y": 51.22705931419407
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld 1/2",
+            "straat": "Jan Davidlei",
+            "huisnr": "z/n",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Jan Davidlei",
+            "x": 4.3764785316838335,
+            "y": 51.188709734412804
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Lodewijk De Raetstraat",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 2,
+            "naam": "Lodewijk de Raetstraat",
+            "x": 4.371787321922976,
+            "y": 51.191856040644815
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Alfons De Cockstraat",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Alfons De Cockplein",
+            "x": 4.373848397355677,
+            "y": 51.189264413632095
+         }
+      ,
+      {
+
+            "categorie": "Agora-minipitch",
+            "straat": "Alfons De Cockstraat",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Alfons De Cockplein",
+            "x": 4.374642477086545,
+            "y": 51.18914991883185
+         }
+      ,
+      {
+
+            "categorie": "Pannaveld",
+            "straat": "Lodewijk De Raetstraat",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 2,
+            "naam": "Lodewijk de Raetstraat",
+            "x": 4.372020591927504,
+            "y": 51.19182308665204
+         }
+      ,
+      {
+
+            "categorie": "Volleybalveld",
+            "straat": "Ploegsteertplein",
+            "huisnr": "1",
+            "postcode": "2600",
+            "toestellen": 1,
+            "naam": "Ploegsteertplein",
+            "x": 4.4451967056386685,
+            "y": 51.192619563733196
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Kwadeveldenplein",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 0,
+            "naam": "Kwadeveldenplein",
+            "x": 4.442198632740489,
+            "y": 51.25907433840629
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Kielpark",
+            "huisnr": "z/n",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Kielpark",
+            "x": 4.386347878797653,
+            "y": 51.19164045158543
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Kielpark",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Kielpark",
+            "x": 4.386094549139641,
+            "y": 51.19211299554083
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Terlindenhofstraat",
+            "huisnr": "z/n",
+            "postcode": "2170",
+            "toestellen": 7,
+            "naam": "Hof van Roosendael",
+            "x": 4.446533016135594,
+            "y": 51.25043320452087
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Terlindenhofstraat",
+            "huisnr": "z/n",
+            "postcode": "2170",
+            "toestellen": 7,
+            "naam": "Hof van Roosendael",
+            "x": 4.447134834488725,
+            "y": 51.25068132362741
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Veltwijcklaan",
+            "huisnr": "1",
+            "postcode": "2180",
+            "toestellen": 1,
+            "naam": "Hof de Bist",
+            "x": 4.44087195817072,
+            "y": 51.283105353903515
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Cruyslei",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 2,
+            "naam": "Te Boelaerpark",
+            "x": 4.45162343210871,
+            "y": 51.20302965756144
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Kloosterstraat",
+            "huisnr": "z/n",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Kloosterstraat",
+            "x": 4.394480735653449,
+            "y": 51.213285462018014
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Sint-Andriesplaats",
+            "huisnr": "z/n",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Sint-Andriesplaats",
+            "x": 4.396643352139943,
+            "y": 51.21500327694203
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Lange Riddersstraat",
+            "huisnr": "z/n",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Lange Riddersstraat",
+            "x": 4.395929513875727,
+            "y": 51.21580429909032
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Terlostraat",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 2,
+            "naam": "Terloplein",
+            "x": 4.443986946995661,
+            "y": 51.21968524761874
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Terlostraat",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 2,
+            "naam": "Terloplein",
+            "x": 4.444279233918837,
+            "y": 51.219198427797416
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Helmstraat",
+            "huisnr": "163",
+            "postcode": "2140",
+            "toestellen": null,
+            "naam": "Helmstraat",
+            "x": 4.439617582586173,
+            "y": 51.21871737249194
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Rechtestraat",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 0,
+            "naam": "Rechtestraat",
+            "x": 4.4445211060588585,
+            "y": 51.21613691977945
+         }
+      ,
+      {
+
+            "categorie": "Tafeltennistafel",
+            "straat": "Krugerplein",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 3,
+            "naam": "Krugerplein",
+            "x": 4.441228029432504,
+            "y": 51.21592796306957
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Krugerplein",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 3,
+            "naam": "Krugerplein",
+            "x": 4.439935700543655,
+            "y": 51.21599678907601
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Majoor Maelfaitplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 2,
+            "naam": "Majoor Maelfaitplein",
+            "x": 4.367867594935173,
+            "y": 51.171080003041375
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Majoor Maelfaitplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 2,
+            "naam": "Majoor Maelfaitplein",
+            "x": 4.368714344700534,
+            "y": 51.17101880637373
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Majoor Maelfaitplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 2,
+            "naam": "Majoor Maelfaitplein",
+            "x": 4.369691530396292,
+            "y": 51.1714673349323
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Schelpstraat",
+            "huisnr": "z/n",
+            "postcode": "2600",
+            "toestellen": 1,
+            "naam": "Schelpstraat",
+            "x": 4.4310498639485996,
+            "y": 51.201354390007886
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Arenaplein",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 5,
+            "naam": "Arenaweide",
+            "x": 4.4589147321397151,
+            "y": 51.20690263409471
+         }
+      ,
+      {
+
+            "categorie": "Korfbalveld",
+            "straat": "Arenaplein",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 5,
+            "naam": "Arenaweide",
+            "x": 4.4589147321397151,
+            "y": 51.20690263409471
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Arenaplein",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 5,
+            "naam": "Arenaweide",
+            "x": 4.4599539086769102,
+            "y": 51.207236758078828
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Arenaplein",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 5,
+            "naam": "Arenaweide",
+            "x": 4.4591276996344522,
+            "y": 51.207210945426787
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Frans Halsplein",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 2,
+            "naam": "Frans Halsplein",
+            "x": 4.412035440080925,
+            "y": 51.22059881113497
+         }
+      ,
+      {
+
+            "categorie": "Pannaveld",
+            "straat": "Frans Halsplein",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 2,
+            "naam": "Frans Halsplein",
+            "x": 4.4119208817514695,
+            "y": 51.220843941871166
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Tweekronenstraat",
+            "huisnr": "1",
+            "postcode": "2030",
+            "toestellen": 2,
+            "naam": "Twee Kronenstraat",
+            "x": 4.4101454556821462,
+            "y": 51.283026683850991
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Tweekronenstraat",
+            "huisnr": "1",
+            "postcode": "2030",
+            "toestellen": 2,
+            "naam": "Twee Kronenstraat",
+            "x": 4.4095227430064741,
+            "y": 51.282130752061192
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Dragondersstraat",
+            "huisnr": "1",
+            "postcode": "2030",
+            "toestellen": null,
+            "naam": "Dragonderstraat",
+            "x": 4.4095227430064741,
+            "y": 51.282130752061192
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Driekoningenstraat",
+            "huisnr": "1",
+            "postcode": "2600",
+            "toestellen": 1,
+            "naam": "Huize Berchem\r\n",
+            "x": 4.4191466685973921,
+            "y": 51.195499786432471
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Wasstraat",
+            "huisnr": "1",
+            "postcode": "2600",
+            "toestellen": 1,
+            "naam": "Wasplein",
+            "x": 4.4197544728254075,
+            "y": 51.19788276265281
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Fonteinstraat",
+            "huisnr": "z/n",
+            "postcode": "2140",
+            "toestellen": 2,
+            "naam": "Dienstencentrum De Fontein",
+            "x": 4.4426756585851495,
+            "y": 51.211701925899071
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Koxplein",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": null,
+            "naam": "Koxplein",
+            "x": 4.4336849956991511,
+            "y": 51.211458904262749
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Sint-Jansplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": 1,
+            "naam": "Sint-Jansplein",
+            "x": 4.4179199585334743,
+            "y": 51.225368864058439
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Sint-Jansplein",
+            "huisnr": "1",
+            "postcode": "2060",
+            "toestellen": null,
+            "naam": "Sint-Jansplein",
+            "x": 4.4179199585334743,
+            "y": 51.225368864058439
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Corneel Jaspersstraat",
+            "huisnr": "1",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "Corneel Jasperstraat",
+            "x": 4.4374288354542832,
+            "y": 51.197978319301505
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Veemarkt",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Veemarkt",
+            "x": 4.4367694948373524,
+            "y": 51.198369938400809
+         }
+      ,
+      {
+
+            "categorie": "Tafeltennistafel",
+            "straat": "Constantin Meunierplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 5,
+            "naam": "Constantin Meunierplein",
+            "x": 4.3409193650686815,
+            "y": 51.171304729793903
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Constantin Meunierplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 5,
+            "naam": "Constantin Meunierplein",
+            "x": 4.3403116387111744,
+            "y": 51.171128521601545
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Constantin Meunierplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 5,
+            "naam": "Constantin Meunierplein",
+            "x": 4.3409812315601846,
+            "y": 51.171114664743726
+         }
+      ,
+      {
+
+            "categorie": "Skateterrein",
+            "straat": "Constantin Meunierplein",
+            "huisnr": "1",
+            "postcode": "2660",
+            "toestellen": 5,
+            "naam": "Constantin Meunierplein",
+            "x": 4.3408873522218814,
+            "y": 51.171448725424391
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Luisbekelaar",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 3,
+            "naam": "Luisbekelaar",
+            "x": 4.4454310496936928,
+            "y": 51.206023485316493
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Luisbekelaar",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 3,
+            "naam": "Luisbekelaar",
+            "x": 4.4454310496936928,
+            "y": 51.206023485316493
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Louis Van Craenstraat",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 2,
+            "naam": "Louis Van Craenstraat",
+            "x": 4.4698693161471708,
+            "y": 51.224483999745232
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Weerstandlaan",
+            "huisnr": "1",
+            "postcode": "2140",
+            "toestellen": 1,
+            "naam": "Weerstandlaan",
+            "x": 4.4580190246751723,
+            "y": 51.214805123523263
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Waarlooshofstraat",
+            "huisnr": "z/n",
+            "postcode": "2020",
+            "toestellen": 1,
+            "naam": "Waarlooshofstraat",
+            "x": 4.3777452757577686,
+            "y": 51.18736694412501
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Skateterrein",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Volleybalveld",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Volleybalveld",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Atletiekpiste",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "BMX-piste",
+            "straat": "VIIde-Olympiadelaan",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 6,
+            "naam": "Den Beerschot",
+            "x": 4.3807754350022758,
+            "y": 51.183346385827292
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Valerius De Saedeleerstraat",
+            "huisnr": "1",
+            "postcode": "2020",
+            "toestellen": 2,
+            "naam": "Den Tir / Valerius De Saedeleerstraat",
+            "x": 4.3764171687523872,
+            "y": 51.191345357488423
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Frans Van Hombeeckplein",
+            "huisnr": "z/n",
+            "postcode": "2600",
+            "toestellen": 2,
+            "naam": "Frans Van Hombeeckplein",
+            "x": 4.4171643719637821,
+            "y": 51.195068382577098
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Frans Van Hombeeckplein",
+            "huisnr": "z/n",
+            "postcode": "2600",
+            "toestellen": 2,
+            "naam": "Frans Van Hombeeckplein",
+            "x": 4.4171643719637821,
+            "y": 51.195068382577098
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Napoleonkaai",
+            "huisnr": "1",
+            "postcode": "2000",
+            "toestellen": 1,
+            "naam": "Napoleonkaai",
+            "x": 4.410985977062695,
+            "y": 51.229885198432925
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Wijngaardberg",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 1,
+            "naam": "Wijngaardberg",
+            "x": 4.4107859238542888,
+            "y": 51.229884265981937
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "De Manstraat",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 1,
+            "naam": "Bisthovenplein",
+            "x": 4.4562637183699234,
+            "y": 51.227013228679446
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Hendrik Kanorastraat",
+            "huisnr": "1",
+            "postcode": "2180",
+            "toestellen": 0,
+            "naam": "Hendrik Kanorastraat",
+            "x": 4.4334285733628445,
+            "y": 51.28778222387497
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Haantjeslei",
+            "huisnr": "149",
+            "postcode": "2018",
+            "toestellen": 1,
+            "naam": "Haantjeslei",
+            "x": 4.4031001010941297,
+            "y": 51.201785186000542
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Kapelstraat",
+            "huisnr": "z/n",
+            "postcode": "2660",
+            "toestellen": 2,
+            "naam": "Lenaart de Landrelaan",
+            "x": 4.3427088765171318,
+            "y": 51.17606146633949
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Kapelstraat",
+            "huisnr": "z/n",
+            "postcode": "2660",
+            "toestellen": 2,
+            "naam": "Lenaart de Landrelaan",
+            "x": 4.3427088765171318,
+            "y": 51.17606146633949
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Schoonakkerpad",
+            "huisnr": "z/n",
+            "postcode": "2170",
+            "toestellen": null,
+            "naam": "Schoonakkerpad",
+            "x": 4.4307263699709676,
+            "y": 51.255697629203318
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Distelhoek",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 7,
+            "naam": "Distelhoek",
+            "x": 4.4307411501641925,
+            "y": 51.251932285975542
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Griffier Schobbenslaan",
+            "huisnr": "34",
+            "postcode": "2140",
+            "toestellen": 2,
+            "naam": "Griffier Schobbenslaan",
+            "x": 4.4552118115199226,
+            "y": 51.214825977028248
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Thonetlaan",
+            "huisnr": "z/n",
+            "postcode": "2050",
+            "toestellen": 1,
+            "naam": "Thonetlaan / Seniorenlokaal",
+            "x": 4.3901102605553266,
+            "y": 51.223272424435798
+         }
+      ,
+      {
+
+            "categorie": "Agora-minipitch",
+            "straat": "Michel Willemsplein",
+            "huisnr": "1",
+            "postcode": "2610",
+            "toestellen": 2,
+            "naam": "Michel Willemsplein",
+            "x": 4.3754321927619948,
+            "y": 51.180524002154684
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Michel Willemsplein",
+            "huisnr": "1",
+            "postcode": "2610",
+            "toestellen": 2,
+            "naam": "Michel Willemsplein",
+            "x": 4.3754321927619948,
+            "y": 51.180524002154684
+         }
+      ,
+      {
+
+            "categorie": "Agora-minipitch",
+            "straat": "Schoutlaan",
+            "huisnr": "1",
+            "postcode": "2180",
+            "toestellen": 1,
+            "naam": "Schoutlaan",
+            "x": 4.4494744242537418,
+            "y": 51.278999374532489
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Theophile Gautierstraat",
+            "huisnr": "1",
+            "postcode": "2050",
+            "toestellen": 1,
+            "naam": "Theophile Gautierstraat",
+            "x": 4.3909535654233709,
+            "y": 51.22807795088459
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Potvlietlaan",
+            "huisnr": "z/n",
+            "postcode": "2600",
+            "toestellen": 2,
+            "naam": "Potvlietlaan",
+            "x": 4.4434973265251072,
+            "y": 51.204540130817755
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Potvlietlaan",
+            "huisnr": "z/n",
+            "postcode": "2600",
+            "toestellen": 2,
+            "naam": "Potvlietlaan",
+            "x": 4.4434973265251072,
+            "y": 51.204540130817755
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Vinkenstraat",
+            "huisnr": "z/n",
+            "postcode": "2018",
+            "toestellen": null,
+            "naam": "Vinkenpark",
+            "x": 4.4079108417220754,
+            "y": 51.203599646220745
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Vinkenstraat",
+            "huisnr": "z/n",
+            "postcode": "2018",
+            "toestellen": null,
+            "naam": "Vinkenpark",
+            "x": 4.4079108417220754,
+            "y": 51.203599646220745
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Harmoniestraat",
+            "huisnr": "z/n",
+            "postcode": "2018",
+            "toestellen": 1,
+            "naam": "Harmonie",
+            "x": 4.4104131043784447,
+            "y": 51.201216953917033
+         }
+      ,
+      {
+
+            "categorie": "Atletiekpiste",
+            "straat": "Oorderseweg",
+            "huisnr": "83",
+            "postcode": "2180",
+            "toestellen": null,
+            "naam": "Hagelkruispark",
+            "x": 4.4129153329248254,
+            "y": 51.279200425455755
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Jules Bordetstraat",
+            "huisnr": "z/n",
+            "postcode": "2018",
+            "toestellen": null,
+            "naam": "Soldatenwildert",
+            "x": 4.4226257851951862,
+            "y": 51.202170401587765
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Dageraadplaats",
+            "huisnr": "1",
+            "postcode": "2018",
+            "toestellen": 2,
+            "naam": "Dageraadplaats",
+            "x": 4.4304871367176508,
+            "y": 51.207307939498946
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Dageraadplaats",
+            "huisnr": "1",
+            "postcode": "2018",
+            "toestellen": 2,
+            "naam": "Dageraadplaats",
+            "x": 4.4304871367176508,
+            "y": 51.207307939498946
+         }
+      ,
+      {
+
+            "categorie": "Atletiekpiste",
+            "straat": "Tweegezusterslaan",
+            "huisnr": "z/n",
+            "postcode": "2100",
+            "toestellen": 3,
+            "naam": "Tweegezusterslaan",
+            "x": 4.4737747689358081,
+            "y": 51.227125802885517
+         }
+      ,
+      {
+
+            "categorie": "Korfbalveld",
+            "straat": "Tweegezusterslaan",
+            "huisnr": "z/n",
+            "postcode": "2100",
+            "toestellen": 3,
+            "naam": "Tweegezusterslaan",
+            "x": 4.4737747689358081,
+            "y": 51.227125802885517
+         }
+      ,
+      {
+
+            "categorie": "Agora",
+            "straat": "Tweegezusterslaan",
+            "huisnr": "z/n",
+            "postcode": "2100",
+            "toestellen": 3,
+            "naam": "Tweegezusterslaan",
+            "x": 4.4737747689358081,
+            "y": 51.227125802885517
+         }
+      ,
+      {
+
+            "categorie": "Fitnesshonk",
+            "straat": "Grootveld",
+            "huisnr": "7",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "De Veldekens",
+            "x": 4.4344150543043455,
+            "y": 51.190411612524485
+         }
+      ,
+      {
+
+            "categorie": "Tafeltennistafel",
+            "straat": "Leiebos",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 1,
+            "naam": "Leiebos",
+            "x": 4.4566844492597202,
+            "y": 51.256731937057623
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Lange Bremstraat",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 2,
+            "naam": "Lange Bremstraat",
+            "x": 4.4548304125165412,
+            "y": 51.25797102447661
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Berchemstadionstraat",
+            "huisnr": "73",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "Sportcentrum Het Rooi",
+            "x": 4.4387838683166256,
+            "y": 51.186942363093642
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Berchemstadionstraat",
+            "huisnr": "73",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "Sportcentrum Het Rooi",
+            "x": 4.4387838683166256,
+            "y": 51.186942363093642
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Berchemstadionstraat",
+            "huisnr": "73",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "Sportcentrum Het Rooi",
+            "x": 4.4387838683166256,
+            "y": 51.186942363093642
+         }
+      ,
+      {
+
+            "categorie": "Atletiekpiste",
+            "straat": "Berchemstadionstraat",
+            "huisnr": "73",
+            "postcode": "2600",
+            "toestellen": null,
+            "naam": "Sportcentrum Het Rooi",
+            "x": 4.4387838683166256,
+            "y": 51.186942363093642
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Boeksveldplein",
+            "huisnr": "1",
+            "postcode": "2610",
+            "toestellen": 1,
+            "naam": "Boeksveldplein",
+            "x": 4.3906699803120626,
+            "y": 51.164001024820429
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Monnikenplein",
+            "huisnr": "z/n",
+            "postcode": "2610",
+            "toestellen": 1,
+            "naam": "Monnikenplein",
+            "x": 4.4302566120869624,
+            "y": 51.175267562598769
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Beatrijslaan",
+            "huisnr": "1",
+            "postcode": "2050",
+            "toestellen": 2,
+            "naam": "Beatrijslaan",
+            "x": 4.3881060070437643,
+            "y": 51.219236874893532
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Beatrijslaan",
+            "huisnr": "1",
+            "postcode": "2050",
+            "toestellen": 2,
+            "naam": "Beatrijslaan",
+            "x": 4.3881060070437643,
+            "y": 51.219236874893532
+         }
+      ,
+      {
+
+            "categorie": "Basket/ trapveld",
+            "straat": "Binnenvaartstraat",
+            "huisnr": "z/n",
+            "postcode": "2000",
+            "toestellen": 2,
+            "naam": "Binnenvaartstraat",
+            "x": 4.4139621658536079,
+            "y": 51.232670714918548
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "Binnenvaartstraat",
+            "huisnr": "z/n",
+            "postcode": "2000",
+            "toestellen": 2,
+            "naam": "Binnenvaartstraat",
+            "x": 4.4139621658536079,
+            "y": 51.232670714918548
+         }
+      ,
+      {
+
+            "categorie": "Skateterrein",
+            "straat": "Ellermanstraat",
+            "huisnr": "z/n",
+            "postcode": "2060",
+            "toestellen": 8,
+            "naam": "Park Spoor Noord",
+            "x": 4.4197571444697239,
+            "y": 51.231511303954804
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Tweemontstraat",
+            "huisnr": "1",
+            "postcode": "2100",
+            "toestellen": 1,
+            "naam": "Tweemontstraat",
+            "x": 4.4450704017932701,
+            "y": 51.234425609927001
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Francis Wellesplein",
+            "huisnr": "1",
+            "postcode": "2018",
+            "toestellen": 2,
+            "naam": "Den Bell",
+            "x": 4.3988754123374703,
+            "y": 51.20519297580978
+         }
+      ,
+      {
+
+            "categorie": "Trapveld",
+            "straat": "Francis Wellesplein",
+            "huisnr": "1",
+            "postcode": "2018",
+            "toestellen": 2,
+            "naam": "Den Bell",
+            "x": 4.3988754123374703,
+            "y": 51.20519297580978
+         }
+      ,
+      {
+
+            "categorie": "Petanquebaan",
+            "straat": "De Nelisplein",
+            "huisnr": "z/n",
+            "postcode": "2020",
+            "toestellen": null,
+            "naam": "De Nelisplein",
+            "x": 4.3897498317165553,
+            "y": 51.192204151744832
+         }
+      ,
+      {
+
+            "categorie": "Basketbalveld",
+            "straat": "Distelhoek",
+            "huisnr": "1",
+            "postcode": "2170",
+            "toestellen": 7,
+            "naam": "Distelhoek",
+            "x": 4.4314936804421787,
+            "y": 51.251689897063493
+         }
+
+    ]
+  }

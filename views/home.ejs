@@ -1,0 +1,42 @@
+<% include head %>
+<% include header %>
+
+<input type="text" class="zoek" id="myInput" onkeyup="myFunction()" placeholder="Zoeken...">
+<a class='back-a' href="/land">Terug</a>
+<br>
+<br>
+
+
+<ul id="myUL" class="veld-a">
+  <% for(var i=0; i < velden.features.length; i++) { %>
+  <li class="wit">
+    <h3 class='veld-straat'>Straat: <%- velden.features[i].straat %></h3>
+    <p class='veld-postcode'>Postcode: <%- velden.features[i].postcode %></p>
+    <h2 class='veld-categorie'>Categorie: <%- velden.features[i].categorie %></h2>
+    <p class='veld-toestellen'>Toestellen: <%- velden.features[i].toestellen %></p>
+    <a class="show" href="/home/<%=i%>">Bekijk</a>
+  </li>
+  <% } %>
+</ul>
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, b, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value;
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (b = 0; b < li.length; b++) {
+    a = li[b].getElementsByTagName("h2")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.indexOf(filter) > -1) {
+      li[b].style.display = "";
+    } else {
+      li[b].style.display = "none";
+    }
+  }
+}
+</script>

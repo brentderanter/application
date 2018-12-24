@@ -1,0 +1,39 @@
+<% include head %>
+<% include header %>
+
+<input type="text" class="zoek" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+
+
+<ul id="myUL" class="veld">
+  <% for(var i=0; i < velden.features.length; i++) { %>
+  <li>
+    <h3 class='veld-straat'>Straat: <%- velden.features[i].straat %></h3>
+    <h2 class='veld-postcode'>Postcode: <%- velden.features[i].postcode %></h2>
+    <p class='veld-categorie'><%- velden.features[i].categorie %></p>
+    <h2 class='veld-toestellen'>Toestellen: <%- velden.features[i].toestellen %></h2>
+    <a class="show" href="/home/<%=i%>">Bekijk</a>
+  </li>
+  <% } %>
+</ul>
+
+<script>
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, b, txtValue;
+  input = document.getElementById('myInput');
+  filter = input.value;
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName('li');
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (b = 0; b < li.length; b++) {
+    a = li[b].getElementsByTagName("p")[0];
+    txtValue = a.textContent || a.innerText;
+    if (txtValue.indexOf(filter) > -1) {
+      li[b].style.display = "";
+    } else {
+      li[b].style.display = "none";
+    }
+  }
+}
+</script>

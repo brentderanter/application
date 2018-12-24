@@ -1,0 +1,349 @@
+
+.main {
+  width: 375px;
+  margin: auto;
+  font-family: "Arial", sans-serif;
+  background-image: linear-gradient(to right, rgba(238,125,0), rgba(228,35,32));
+  color: white;
+  padding-bottom: 5px;
+  padding-top: 15px;
+
+}
+
+#map{
+  width: 100%;
+  height: 400px;
+}
+
+/************ END BASICS *************/
+
+
+img {
+  max-width: 100%;
+}
+/* Keeps images responsive */
+
+/************ slider *************/
+
+.slider-container{
+  height: 670px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+.menu {
+  position: absolute;
+  left: 0;
+  z-index: 900;
+  width: 100%;
+  bottom: 0;
+}
+
+.menu label {
+  cursor: pointer;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border-radius: 50px;
+  margin: 0 .2em 1em;
+  &:hover {
+    background: red;
+  }
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  z-index: 10;
+  padding: 8em 1em 0;
+  background-size: cover;
+  background-position: 50% 50%;
+  transition: left 0s .75s;
+}
+
+[id^="slide"]:checked + .slide {
+  left: 0;
+  z-index: 100;
+  transition: left .45s ease-out;
+}
+
+.slide-1 {
+  height: 600px;
+  background-image: url("../img/scherma.png");
+  background-size: cover;
+}
+.slide-2 {
+  height: 600px;
+  background-image: url("../img/schermb.png");
+  background-size: cover;
+}
+.slide-3 {
+  height: 600px;
+  background-image: url("../img/schermc.png");
+  background-size: fit;
+}
+
+.continue{
+  z-index: 105;
+  position: absolute;
+  top: 0;
+  left: 10;
+
+}
+
+/************ END SLIDER *************/
+/************ Nearby *************/
+.nearby{
+  padding: 10px;
+}
+
+.veld, .wit{
+  background-color: #FFFBF1;
+  color: black;
+  border-radius: 10px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.veld-a li h2{
+  font-size: 1em;
+}
+
+.veld-a li{
+  list-style: none;
+}
+
+.zoek{
+  width: 80%;
+  margin-left: 30px;
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 1.3em;
+  color: black;
+}
+
+.titel{
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.veld-straat{
+  font-weight: 400;
+  font-size: 1.6em;
+  margin-bottom: 10px;
+}
+
+.veld-postcode{
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+.veld-categorie{
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+.veld-toestellen{
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.show,.back{
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, rgba(238,125,0), rgba(228,35,32));
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+}
+
+.back-a{
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, rgba(238,125,0), rgba(228,35,32));
+  padding: 7px;
+  padding-left: 15px;
+  margin-left: 25px;
+  padding-right: 15px;
+  border-radius: 15px;
+}
+
+.land-A{
+  margin-top: 1rem;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.show:hover,.back:hover{
+  color: black;
+}
+
+.voetbalveld, .tennisveld{
+  width: 140px;
+  height: 150px;
+  background-color: grey;
+  margin-right: 5px;
+}
+
+.voetbalveld{
+  background-image: url("../img/football.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.voetbalvelden a{
+  color: white;
+}
+
+.voetbalvelden-alle{
+  margin-top: 20px;
+}
+
+.voetbalvelden-alle a{
+  text-decoration: none;
+  color: white;
+}
+
+.tennisveld{
+  background-image: url("../img/tennis.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.tennisvelden a{
+  color: white;
+}
+
+.tennisvelden-alle{
+  margin-top: 20px;
+}
+
+.tennisvelden-alle a{
+  text-decoration: none;
+  color: white;
+}
+
+
+.info-voetbalveld, .info-tennisveld{
+  margin-top: 115px;
+  background-color: #D8646B;
+  border-radius: 0px 0px 10px 10px
+}
+
+.info-voetbalveld h5, .info-tennisveld h5 {
+  margin-bottom: 0;
+  font-size: 1em;
+  padding-left: 5px;
+}
+
+.info-voetbalveld p, .info-tennisveld p {
+  margin-bottom: 0;
+  font-size: 0.9em;
+  padding: 2px;
+  padding-left: 5px;
+}
+
+.detail{
+  margin-left: 10px;
+  padding-top: 1rem;
+}
+
+.veld{
+  padding-top: 1.5rem;
+}
+
+h3{
+  font-weight: bold;
+}
+
+.search a {
+  text-decoration: none;
+  color: white;
+}
+
+button.search{
+  border: none;
+  background-color: #D8646B;
+}
+
+/************ END Nearby *************/
+/************ SEARCH PAGE *************/
+
+#search{
+  width: 90%;
+  margin-left: 20px;
+  margin-top: 0.5rem;
+}
+
+.filter{
+  border: none;
+  background-color: #D8646B;
+  margin-left: 20px;
+  color: white;
+}
+
+.items p{
+  margin-left: 20px;
+}
+
+.info-result{
+  margin-top: 280px;
+  background-color: #D8646B;
+}
+
+.info-result h5{
+  margin-bottom: 0;
+  font-size: 1em;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.info-result p{
+  margin-bottom: 0;
+  font-size: 0.9em;
+  padding: 2px;
+  padding-left: 5px;
+}
+
+.result{
+  background-image: url("../img/football.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 300px;
+}
+
+.on-map{
+  margin-top: 50px;
+  background-color: #D8646B;
+  border: none;
+  margin-left: 5px;
+}
+
+
+/************ MAP *************/
+
+.map, #googlemap{
+  height: 671px;
+  width: 375px;
+}
+
+#map{
+  width: 95%;
+  margin: auto;
+  border-radius: 25px;
+  margin-bottom: 5px;
+  border: 2px solid white;
+}
